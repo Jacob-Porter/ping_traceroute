@@ -7,10 +7,10 @@ _*was provided skeleton code_
 
 **My additions:**
 
-  ICMP error processing [ sendEchoRequest() ]
+  ICMP error processing [_ sendEchoRequest() _]
   
-  Reply packet data validation [ __validateIcmpReplyPacketWithOriginalPingData() ]
+  Reply packet data validation [_ __validateIcmpReplyPacketWithOriginalPingData() _]
   
-  Printing ping stats [ __sendIcmpEchoRequest() ]
+  Printing ping stats [_ __sendIcmpEchoRequest() _]
   
-  Traceroute functionality [ __sendIcmpTraceRoute() ]
+  Traceroute functionality [_ __sendIcmpTraceRoute() _]
