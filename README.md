@@ -7,7 +7,7 @@ _*was provided skeleton code_
 
 **My additions:**
 
-    ICMP error processing "_sendEchoRequest()_"
-    Reply packet data validation "_validateIcmpReplyPacketWithOriginalPingData()_"
-    Printing ping stats "_sendIcmpEchoRequest()_"
-    Traceroute functionality "_sendIcmpTraceRoute()_"
+    ICMP error processing | "sendEchoRequest()"
+    Reply packet data validation | "validateIcmpReplyPacketWithOriginalPingData()"
+    Printing ping stats | "sendIcmpEchoRequest()"
+    Traceroute functionality | "sendIcmpTraceRoute()"
